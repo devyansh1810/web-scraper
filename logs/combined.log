@@ -1,0 +1,63 @@
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T09:44:30.095Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T09:44:34.785Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T09:44:34.787Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T09:44:34.788Z"}
+{"level":"info","message":"Starting to scrape: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:44:34.801Z"}
+{"level":"info","message":"Saved new record for: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:44:42.888Z"}
+{"level":"info","message":"Starting batch scrape of 3 URLs","service":"web-scraper","timestamp":"2025-06-27T09:44:42.892Z"}
+{"level":"info","message":"Starting to scrape: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:44:42.896Z"}
+{"level":"info","message":"Starting to scrape: https://httpbin.org/html","service":"web-scraper","timestamp":"2025-06-27T09:44:43.898Z"}
+{"level":"info","message":"Starting to scrape: https://jsonplaceholder.typicode.com","service":"web-scraper","timestamp":"2025-06-27T09:44:44.911Z"}
+{"level":"info","message":"Updated existing record for: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:44:48.102Z"}
+{"level":"info","message":"Saved new record for: https://httpbin.org/html","service":"web-scraper","timestamp":"2025-06-27T09:44:50.033Z"}
+{"level":"info","message":"Saved new record for: https://jsonplaceholder.typicode.com","service":"web-scraper","timestamp":"2025-06-27T09:44:50.752Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T09:48:25.740Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T09:49:55.508Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T09:49:55.751Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T09:49:55.752Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T09:49:55.752Z"}
+{"level":"info","message":"Starting to scrape: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:49:55.765Z"}
+{"level":"info","message":"Updated existing record for: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:50:02.907Z"}
+{"level":"info","message":"Starting batch scrape of 3 URLs","service":"web-scraper","timestamp":"2025-06-27T09:50:02.908Z"}
+{"level":"info","message":"Starting to scrape: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:50:02.911Z"}
+{"level":"info","message":"Starting to scrape: https://httpbin.org/html","service":"web-scraper","timestamp":"2025-06-27T09:50:03.921Z"}
+{"level":"info","message":"Starting to scrape: https://jsonplaceholder.typicode.com","service":"web-scraper","timestamp":"2025-06-27T09:50:04.924Z"}
+{"level":"info","message":"Updated existing record for: https://example.com","service":"web-scraper","timestamp":"2025-06-27T09:50:06.582Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T09:50:08.235Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T09:50:24.888Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T09:50:25.174Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T09:50:25.178Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T09:50:25.180Z"}
+{"level":"info","message":"Starting to scrape: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:50:25.195Z"}
+{"level":"info","message":"Saved new record for: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:50:36.693Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T09:51:56.417Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T09:52:00.262Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T09:52:00.547Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T09:52:00.547Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T09:52:00.548Z"}
+{"level":"info","message":"Starting to scrape: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:52:00.563Z"}
+{"level":"info","message":"Updated existing record for: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:52:12.180Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T09:53:41.785Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T09:53:51.965Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T09:53:52.221Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T09:53:52.222Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T09:53:52.222Z"}
+{"level":"info","message":"Starting to scrape: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:53:52.237Z"}
+{"level":"info","message":"Updated existing record for: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T09:54:02.980Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T09:54:10.586Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T10:00:37.487Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T10:00:37.744Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T10:00:37.745Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T10:00:37.745Z"}
+{"level":"info","message":"Starting to scrape: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T10:00:37.763Z"}
+{"level":"info","message":"Saved new record for: https://usca.tscprinters.com/en","service":"web-scraper","timestamp":"2025-06-27T10:00:49.841Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T10:00:50.163Z"}
+{"level":"info","message":"Puppeteer browser closed","service":"web-scraper","timestamp":"2025-06-27T10:00:50.311Z"}
+{"level":"info","message":"Connected to MongoDB successfully","service":"web-scraper","timestamp":"2025-06-27T10:04:59.694Z"}
+{"level":"info","message":"Puppeteer browser initialized","service":"web-scraper","timestamp":"2025-06-27T10:04:59.938Z"}
+{"level":"info","message":"Scraper service initialized","service":"web-scraper","timestamp":"2025-06-27T10:04:59.939Z"}
+{"level":"info","message":"Web scraper application initialized successfully","service":"web-scraper","timestamp":"2025-06-27T10:04:59.940Z"}
+{"level":"info","message":"Starting to scrape: https://www.amazon.in/s?k=printer+amazon&adgrpid=69892872237&ext_vrnc=hi&hvadid=714825034799&hvdev=c&hvlocphy=9062141&hvnetw=g&hvqmt=e&hvrand=10336266930407979047&hvtargid=kwd-8534355983&hydadcr=1444_2348185&mcid=9a83418bc7a63c66b20630ef8b91ab68&tag=googinhydr1-21&ref=pd_sl_2u4dnq6u1v_e","service":"web-scraper","timestamp":"2025-06-27T10:04:59.953Z"}
+{"level":"info","message":"Saved new record for: https://www.amazon.in/s?k=printer+amazon&adgrpid=69892872237&ext_vrnc=hi&hvadid=714825034799&hvdev=c&hvlocphy=9062141&hvnetw=g&hvqmt=e&hvrand=10336266930407979047&hvtargid=kwd-8534355983&hydadcr=1444_2348185&mcid=9a83418bc7a63c66b20630ef8b91ab68&tag=googinhydr1-21&ref=pd_sl_2u4dnq6u1v_e","service":"web-scraper","timestamp":"2025-06-27T10:05:10.060Z"}
+{"level":"info","message":"Shutting down application...","service":"web-scraper","timestamp":"2025-06-27T10:05:11.464Z"}
+{"level":"info","message":"Puppeteer browser closed","service":"web-scraper","timestamp":"2025-06-27T10:05:11.667Z"}
